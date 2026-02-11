@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Gouravbirwaz/full-stack_chatApp.git
+    repoURL: https://github.com/LondheShubham153/full-stack_chatApp.git
     targetRevision: main
     path: k8s
 
